@@ -1,0 +1,2 @@
+all:
+	gcc Work.c
